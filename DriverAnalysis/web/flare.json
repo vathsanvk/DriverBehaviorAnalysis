@@ -1,0 +1,530 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "2013",
+   "children": [
+    {
+     "name": "Previous Recorded Crashes",
+     "children": [
+      {"name": "Valid License", "size": 11.7},
+      {"name": "InValid License", "size": 11.3},
+      {"name": "Unknown", "size": 0.3}
+     ]
+    },
+    {
+     "name": "Previous Recorded Suspensions or Revocations",
+     "children": [
+      {"name": "Valid License", "size": 8.9},
+      {"name": "InValid License", "size": 45}
+      
+     ]
+    },
+    {
+     "name": "Previous DWI Convictions",
+     "children": [
+      {"name": "Valid License", "size": 1.3},
+      {"name": "InValid License", "size": 9.4}
+     ]
+    },
+    {
+     "name": "Previous Speeding Convictions",
+     "children": [
+      {"name": "Valid License", "size": 16},
+      {"name": "InValid License", "size": 16.1},
+      {"name": "Unknown", "size": 0.3}
+     ]
+    },
+    {
+     "name": "Previous Other Harmful Moving Convictions",
+     "children": [
+      {"name": "Valid License", "size": 15.4},
+      {"name": "InValid License", "size": 24.1},
+      {"name": "Unknown", "size": 0.9}
+     ]
+    },
+    {
+     "name": "Drivers with No Previous Convictions",
+     "children": [
+      {"name": "Valid License", "size": 63.9},
+      {"name": "InValid License", "size": 43.7},
+      {"name": "Unknown", "size": 99}
+     ]
+    }
+   ]
+  },
+{
+   "name": "2012",
+   "children": [
+    {
+     "name": "Previous Recorded Crashes",
+     "children": [
+      {"name": "Valid License", "size": 11.5},
+      {"name": "InValid License", "size": 10.4},
+      {"name": "Unknown", "size": 0.3}
+     ]
+    },
+    {
+     "name": "Previous Recorded Suspensions or Revocations",
+     "children": [
+      {"name": "Valid License", "size": 9.3},
+      {"name": "InValid License", "size": 46.9}
+      
+     ]
+    },
+    {
+     "name": "Previous DWI Convictions",
+     "children": [
+      {"name": "Valid License", "size": 1.6},
+      {"name": "InValid License", "size": 10.1}
+     ]
+    },
+    {
+     "name": "Drivers with No Previous Convictions",
+     "children": [
+      {"name": "Unknown", "size": 99},
+      {"name": "InValid License", "size": 42.2},
+      {"name": "Valid License", "size": 62.9}
+     ]
+    },
+    {
+     "name": "Previous Speeding Convictions",
+     "children": [
+      {"name": "Valid License", "size": 16.7},
+      {"name": "InValid License", "size": 17.7},
+      {"name": "Unknown", "size": 0.6}
+     ]
+    },
+    {
+     "name": "Previous Other Harmful Moving Convictions",
+     "children": [
+      {"name": "Valid License", "size": 16.2},
+      {"name": "InValid License", "size": 25.8},
+      {"name": "Unknown", "size": 0.5}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "2011",
+   "children": [
+    {
+     "name": "Previous Recorded Crashes",
+     "children": [
+      {"name": "Valid License", "size": 11.9},
+      {"name": "Unknown", "size": 0.2},
+      {"name": "InValid License", "size": 11.6}
+     ]
+    },
+    {
+     "name": "Previous Recorded Suspensions or Revocations",
+     "children": [
+      {"name": "Valid License", "size": 9.7},
+      {"name": "InValid License", "size": 47.8},
+      {"name": "Unknown", "size": 0.4}  
+     ]
+    },
+    {
+     "name": "Previous Speeding Convictions",
+     "children": [
+      {"name": "Valid License", "size": 18.1},
+      {"name": "InValid License", "size": 17.9},
+      {"name": "Unknown", "size": 0.4}
+     ]
+    },
+    {
+     "name": "Previous Other Harmful Moving Convictions",
+     "children": [
+      {"name": "Valid License", "size": 16.9},
+      {"name": "InValid License", "size": 26.4},
+      {"name": "Unknown", "size": 0.4}
+     ]
+    },
+    {
+     "name": "Drivers with No Previous Convictions",
+     "children": [
+      {"name": "Valid License", "size": 61.2},
+      {"name": "InValid License", "size": 42.2},
+      {"name": "Unknown", "size": 99}
+     ]
+    }
+   ]
+  },
+{
+   "name": "2010",
+   "children": [
+    {
+     "name": "Previous Recorded Crashes",
+     "children": [
+      {"name": "Valid License", "size": 11.6},
+      {"name": "InValid License", "size": 11.2},
+      {"name": "Unknown", "size": 0.2}
+     ]
+    },
+    {
+     "name": "Previous Recorded Suspensions or Revocations",
+     "children": [
+      {"name": "Valid License", "size": 9.4},
+      {"name": "InValid License", "size": 48},
+      {"name": "Unknown", "size": 0.2} 
+     ]
+    },
+    {
+     "name": "Previous DWI Convictions",
+     "children": [
+      {"name": "Valid License", "size": 1.8},
+      {"name": "InValid License", "size": 11.3},
+      {"name": "Unknown", "size": 0.1}
+     ]
+    },
+    {
+     "name": "Previous Speeding Convictions",
+     "children": [
+      {"name": "Valid License", "size": 18.5},
+      {"name": "InValid License", "size": 18.4},
+      {"name": "Unknown", "size": 0.3}
+     ]
+    },
+    {
+     "name": "Previous Other Harmful Moving Convictions",
+     "children": [
+      {"name": "Valid License", "size": 16.7},
+      {"name": "InValid License", "size": 26.4},
+      {"name": "Unknown", "size": 0.6}
+     ]
+    },
+    {
+     "name": "Drivers with No Previous Convictions",
+     "children": [
+      {"name": "Valid License", "size": 61.7},
+      {"name": "InValid License", "size": 42.4},
+      {"name": "Unknown", "size": 99.1}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "2009",
+   "children": [
+    {
+     "name": "Previous Recorded Crashes",
+     "children": [
+      {"name": "Valid License", "size": 11.9},
+      {"name": "InValid License", "size": 11.4},
+      {"name": "Unknown", "size": 0.4}
+     ]
+    },
+    {
+     "name": "Previous Recorded Suspensions or Revocations",
+     "children": [
+     {"name": "InValid License", "size": 44.8},
+      {"name": "Valid License", "size": 8.8},
+      {"name": "Unknown", "size": 0.4}
+     ]
+    },
+    {
+     "name": "Previous Other Harmful Moving Convictions",
+     "children": [
+      {"name": "Valid License", "size": 16.7},
+      {"name": "InValid License", "size": 21.1},
+      {"name": "Unknown", "size": 0.6}
+     ]
+    },
+    {
+     "name": "Previous DWI Convictions",
+     "children": [
+     {"name": "InValid License", "size": 10.7},
+      {"name": "Valid License", "size": 1.7},
+      {"name": "Unknown", "size": 0.1}
+     ]
+    },
+    {
+     "name": "Previous Speeding Convictions",
+     "children": [
+      {"name": "Valid License", "size": 18.9},
+      {"name": "InValid License", "size": 18.4},
+      {"name": "Unknown", "size": 0.3}
+     ]
+    },
+    {
+     "name": "Drivers with No Previous Convictions",
+     "children": [
+      {"name": "Valid License", "size": 61.8},
+      {"name": "InValid License", "size": 45.1},
+      {"name": "Unknown", "size": 98.7}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "2008",
+   "children": [
+    {
+     "name": "Previous Recorded Crashes",
+     "children": [
+      {"name": "Valid License", "size": 11.8},
+      {"name": "InValid License", "size": 11.4},
+      {"name": "Unknown", "size": 0.2}
+     ]
+    },
+    {
+     "name": "Previous Recorded Suspensions or Revocations",
+     "children": [
+      {"name": "Valid License", "size": 8.9},
+      {"name": "InValid License", "size": 44},
+      {"name": "Unknown", "size": 0.5}
+      
+     ]
+    },
+    {
+     "name": "Previous DWI Convictions",
+     "children": [
+      {"name": "Valid License", "size": 1.7},
+      {"name": "InValid License", "size": 10.7},
+      {"name": "Unknown", "size": 0.2}
+     ]
+    },
+    {
+     "name": "Previous Speeding Convictions",
+     "children": [
+      {"name": "Valid License", "size": 19.8},
+      {"name": "InValid License", "size": 17.8},
+      {"name": "Unknown", "size": 0.4}
+     ]
+    },
+    {
+     "name": "Previous Other Harmful Moving Convictions",
+     "children": [
+      {"name": "Valid License", "size": 16.7},
+      {"name": "InValid License", "size": 24.2},
+      {"name": "Unknown", "size": 0.4}
+     ]
+    },
+    {
+     "name": "Drivers with No Previous Convictions",
+     "children": [
+      {"name": "Valid License", "size": 60.3},
+      {"name": "InValid License", "size": 44.8},
+      {"name": "Unknown", "size": 99.1}
+     ]
+    }
+   ]
+  },
+{
+   "name": "2007",
+   "children": [
+    {
+     "name": "Previous Recorded Crashes",
+     "children": [
+      {"name": "Valid License", "size": 11.9},
+      {"name": "InValid License", "size": 11.9},
+      {"name": "Unknown", "size": 0.3}
+     ]
+    },
+    {
+     "name": "Previous DWI Convictions",
+     "children": [
+      {"name": "Valid License", "size": 1.6},
+      {"name": "InValid License", "size": 10.4},
+      {"name": "Unknown", "size": 0.1}
+     ]
+    },
+    {
+     "name": "Previous Speeding Convictions",
+     "children": [
+      {"name": "Valid License", "size": 19.5},
+      {"name": "InValid License", "size": 19.2},
+      {"name": "Unknown", "size": 0.5}
+     ]
+    },
+    {
+     "name": "Previous Recorded Suspensions or Revocations",
+     "children": [
+      {"name": "Valid License", "size": 8.7},
+      {"name": "InValid License", "size": 44.4},
+      {"name": "Unknown", "size": 0.1}
+      
+     ]
+    },
+    {
+     "name": "Previous Other Harmful Moving Convictions",
+     "children": [
+      {"name": "Valid License", "size": 15.7},
+      {"name": "InValid License", "size": 23.9},
+      {"name": "Unknown", "size": 0.5}
+     ]
+    },
+    {
+     "name": "Drivers with No Previous Convictions",
+     "children": [
+      {"name": "Valid License", "size": 62.1},
+      {"name": "InValid License", "size": 44.6},
+      {"name": "Unknown", "size": 99.0}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "2006",
+   "children": [
+    {
+     "name": "Previous Recorded Crashes",
+     "children": [
+      {"name": "Valid License", "size": 12.5},
+      {"name": "InValid License", "size": 12.3},
+      {"name": "Unknown", "size": 0.5}
+     ]
+    },
+    {
+     "name": "Previous Recorded Suspensions or Revocations",
+     "children": [
+      {"name": "Valid License", "size": 8},
+      {"name": "InValid License", "size": 42.1},
+      {"name": "Unknown", "size": 0.2}
+      
+     ]
+    },
+    {
+     "name": "Previous DWI Convictions",
+     "children": [
+      {"name": "Valid License", "size": 1.6},
+      {"name": "InValid License", "size": 9.8}
+     ]
+    },
+    {
+     "name": "Previous Speeding Convictions",
+     "children": [
+      {"name": "Valid License", "size": 19.5},
+      {"name": "InValid License", "size": 19},
+      {"name": "Unknown", "size": 0.2}
+     ]
+    },
+    {
+     "name": "Previous Other Harmful Moving Convictions",
+     "children": [
+      {"name": "Valid License", "size": 15.6},
+      {"name": "InValid License", "size": 23.1},
+      {"name": "Unknown", "size": 0.7}
+     ]
+    },
+    {
+     "name": "Drivers with No Previous Convictions",
+     "children": [
+      {"name": "Valid License", "size": 61.8},
+      {"name": "InValid License", "size": 47},
+      {"name": "Unknown", "size": 99.1}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "2005",
+   "children": [
+    {
+     "name": "Previous Recorded Crashes",
+     "children": [
+      {"name": "Valid License", "size": 13},
+      {"name": "InValid License", "size": 13},
+      {"name": "Unknown", "size": 0.7}
+     ]
+    },
+    {
+     "name": "Previous Recorded Suspensions or Revocations",
+     "children": [
+      {"name": "Valid License", "size": 7.9},
+      {"name": "InValid License", "size": 43.1},
+      {"name": "Unknown", "size": 0.3}
+      
+     ]
+    },
+    {
+     "name": "Previous DWI Convictions",
+     "children": [
+      {"name": "Valid License", "size": 1.8},
+      {"name": "InValid License", "size": 11.1},
+      {"name": "Unknown", "size": 0.1}
+     ]
+    },
+    {
+     "name": "Previous Speeding Convictions",
+     "children": [
+      {"name": "Valid License", "size": 19.8},
+      {"name": "InValid License", "size": 18.5},
+      {"name": "Unknown", "size": 0.4}
+     ]
+    },
+    {
+     "name": "Previous Other Harmful Moving Convictions",
+     "children": [
+      {"name": "Valid License", "size": 16},
+      {"name": "InValid License", "size": 22.7},
+      {"name": "Unknown", "size": 0.5}
+     ]
+    },
+    {
+     "name": "Drivers with No Previous Convictions",
+     "children": [
+      {"name": "Valid License", "size": 60.9},
+      {"name": "InValid License", "size": 45.8},
+      {"name": "Unknown", "size": 98.7}
+     ]
+    }
+   ]
+  },
+{
+   "name": "2004",
+   "children": [
+    {
+     "name": "Previous Recorded Crashes",
+     "children": [
+      {"name": "Valid License", "size": 13.6},
+      {"name": "InValid License", "size": 12.9},
+      {"name": "Unknown", "size": 1}
+     ]
+    },
+    {
+     "name": "Previous Recorded Suspensions or Revocations",
+     "children": [
+      {"name": "Valid License", "size": 7.4},
+      {"name": "InValid License", "size": 42.8},
+      {"name": "Unknown", "size": 0.8}
+      
+     ]
+    },
+    {
+     "name": "Previous DWI Convictions",
+     "children": [
+      {"name": "Valid License", "size": 1.7},
+      {"name": "InValid License", "size": 11.6},
+      {"name": "Unknown", "size": 0.1}
+     ]
+    },
+    {
+     "name": "Previous Speeding Convictions",
+     "children": [
+      {"name": "Valid License", "size": 20.6},
+      {"name": "InValid License", "size": 18.5},
+      {"name": "Unknown", "size": 1.1}
+     ]
+    },
+    {
+     "name": "Previous Other Harmful Moving Convictions",
+     "children": [
+      {"name": "Valid License", "size": 16.4},
+      {"name": "InValid License", "size": 23.3},
+      {"name": "Unknown", "size": 1.2}
+     ]
+    },
+    {
+     "name": "Drivers with No Previous Convictions",
+     "children": [
+      {"name": "Valid License", "size": 60.3},
+      {"name": "InValid License", "size": 46.3},
+      {"name": "Unknown", "size": 97.6}
+     ]
+    }
+   ]
+  } 
+   ]
+  }
+ 
